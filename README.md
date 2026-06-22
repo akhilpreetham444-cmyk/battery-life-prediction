@@ -25,5 +25,9 @@ This project predicts battery life and analyzes battery performance using Machin
 - Battery_Dashboard.pbix
 - Dashboard Screenshots
 
+- ## Dashboard Preview
+
+![Battery Dashboard](battery_Life_Dashboard.twb)
+
 ## Author
 Akhil Preetham
